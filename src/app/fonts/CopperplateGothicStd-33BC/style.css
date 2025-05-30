@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Copperplate Gothic';
+    src: local('Copperplate Gothic 33BC'), local('Copperplate-Gothic-33BC'),
+        url('CopperplateGothicStd-33BC.woff2') format('woff2'),
+        url('CopperplateGothicStd-33BC.woff') format('woff'),
+        url('CopperplateGothicStd-33BC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

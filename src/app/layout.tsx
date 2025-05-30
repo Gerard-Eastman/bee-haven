@@ -24,10 +24,26 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <header className="p-4 border-b flex justify-between items-center">
+          <h1 className="text-xl font-semibold">
+            <a href="/">Bee Haven</a>
+          </h1>
+          <nav className="space-x-4 text-sm">
+            <a href="/" className="hover:underline">Home</a>
+            <a href="/projects" className="hover:underline">Map</a>
+            <a href="/shop" className="hover:underline">Shop</a>
+            <a href="/contact" className="hover:underline">Contact</a>
+          </nav>
+        </header>
+
+        <main className="p-6 max-w-4xl mx-auto">
+          {children}
+        </main>
+
+        <footer className="p-4 text-center text-sm text-gray-500 border-t mt-12">
+          &copy; {new Date().getFullYear()} Bee Haven. All rights reserved.
+        </footer>
       </body>
     </html>
   );
