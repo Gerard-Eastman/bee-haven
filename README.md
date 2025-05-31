@@ -1,4 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BeeHaven Web Project
+
+Website for a family-run beekeeping business.
+
+🔗**Live Site**: TBD
+
+## 🎞️ Screenshots
+
+- *post site screenshots here*
+
+
+
+## 🛠️ Project Setup
+
+* This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
+
+* Configured with Tailwind.CSS
+
+* Version-controlled using Git and hosted on GitHub
+
+
+
+## Roadmap
+
+- [x] Project Setup 
+
+- [ ] / – homepage
+  
+  - Simple landing page showcasing branding
+
+- [ ] /contact page
+  
+  - simple contact form, or contact info
+
+- [ ] /about page
+  
+  - brief history of our farm and our mission
+
+- [ ] /locations page
+  
+  - interactive map or list of currently sold locations
+
+- [ ] /shop page
+  
+  - product listings with shopify storefront API 
+
+- [ ] Polish and Deployment
+
+## ✍️ Author
+
+### **Gerard Eastman**
+
+- [GitHub](https://github.com/Gerard-Eastman)
+
+- [LinkedIn](https://linkedin.com/in/gerard-eastman)
+
+
+
+
+
+
+
+
+
+---
+
+# Leftover boilerplate
 
 ## Getting Started
 
@@ -14,7 +80,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
