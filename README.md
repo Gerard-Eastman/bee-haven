@@ -8,8 +8,6 @@ Website for a family-run beekeeping business.
 
 - *post site screenshots here*
 
-
-
 ## 🛠️ Project Setup
 
 * This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
@@ -18,7 +16,38 @@ Website for a family-run beekeeping business.
 
 * Version-controlled using Git and hosted on GitHub
 
+## 🏠 Local Deployment Instructions
 
+Get this website running on your machine:
+
+#### 📋 Prerequisites
+
+- [Node.js](https://nodejs.org/) (version 18 or higher recommended)
+- [Git](https://git-scm.com/) installed
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/Gerard-Eastman/bee-haven.git
+```
+
+### Step 2: Install Dependencies
+
+```bash
+npm install
+```
+
+### Step 3: Run the Local Development Server
+
+```bash
+npm run dev
+```
+
+### Step 4: View the Project
+
+- Simply paste http://localhost:3000 into you browser, and check out the website!
+
+---
 
 ## Roadmap
 
@@ -54,14 +83,6 @@ Website for a family-run beekeeping business.
 
 - [LinkedIn](https://linkedin.com/in/gerard-eastman)
 
-
-
-
-
-
-
-
-
 ---
 
 # Leftover boilerplate
@@ -79,8 +100,6 @@ pnpm dev
 # or
 bun dev
 ```
-
-
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
