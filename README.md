@@ -8,6 +8,18 @@ Website for a family-run beekeeping business.
 
 - *post site screenshots here*
 
+## 🧱 Built With
+
+- [Next.js](https://nextjs.org/) – React framework
+
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+
+- [TypeScript](https://www.typescriptlang.org/) – Typed JavaScript
+
+- [Shopify Storefront API](https://shopify.dev/docs/api/storefront) – E-commerce integration
+
+- TBD – Deployment platform
+
 ## 🛠️ Project Setup
 
 * This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
@@ -49,7 +61,7 @@ npm run dev
 
 ---
 
-## Roadmap
+## 🧭 Roadmap
 
 - [x] Project Setup 
 
@@ -82,5 +94,9 @@ npm run dev
 - [GitHub](https://github.com/Gerard-Eastman)
 
 - [LinkedIn](https://linkedin.com/in/gerard-eastman)
+
+## 📄 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
